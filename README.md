@@ -22,3 +22,7 @@ CSS file styling is the standard method. We target elements to apply styling to 
 - Use a `.` and then a class name to target all elements carrying that class
 - Use a `#` and then an id name to target the specific element with that ID
 - Use an element name - `div`, `p`, `span`, etc to target all elements of that type
+
+HTML and CSS can be used to achieve almost anything
+
+Go crazy and see what you can do
